@@ -1,0 +1,32 @@
+{
+  "dbpath":"db",
+  "microservice":{
+    "title":"rfi",
+    "domain":"www.rfi.com",
+    "url":[
+      "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/",
+      "https://www.rfi.fr/cn/%E6%B8%AF%E6%BE%B3%E5%8F%B0/",
+      "https://www.rfi.fr/cn/%E6%B3%95%E5%9B%BD/",
+      "https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/",
+      "https://www.rfi.fr/cn/%E9%9D%9E%E6%B4%B2/",
+      "https://www.rfi.fr/cn/%E7%BE%8E%E6%B4%B2/",
+      "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/",
+      "https://www.rfi.fr/cn/%E4%B8%AD%E4%B8%9C/",
+      "https://www.rfi.fr/cn/%E4%BA%BA%E6%9D%83/",
+      "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/",
+      "https://www.rfi.fr/cn/%E7%BB%8F%E8%B4%B8/",
+      "https://www.rfi.fr/cn/%E7%A4%BE%E4%BC%9A/",
+      "https://www.rfi.fr/cn/%E7%94%9F%E6%80%81/",
+      "https://www.rfi.fr/cn/%E7%A7%91%E6%8A%80%E4%B8%8E%E6%96%87%E5%8C%96/",
+      "https://www.rfi.fr/cn/%E6%9C%80%E6%96%B0%E6%B6%88%E6%81%AF/",
+      "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/",
+      "https://www.rfi.fr/cn/%E4%BD%93%E8%82%B2/",
+      "https://www.rfi.fr/cn/%E6%B3%95%E6%96%B0%E7%A4%BE%E7%BB%8F%E6%B5%8E/",
+      "https://www.rfi.fr/cn/%E5%81%A5%E5%BA%B7/",
+      "https://www.rfi.fr/cn/%E5%90%8D%E6%B5%81/"
+    ],
+    "addr":":10001",
+    "timeout":"1s",
+    "heartbeat":"24h"
+  }
+}
